@@ -24,7 +24,7 @@ TYPESENSE_CONFIG = {
 }
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
-TOP_K = 3
+TOP_K = 10
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 100
 TEMPERATURE = 0

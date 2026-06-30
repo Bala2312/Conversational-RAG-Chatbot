@@ -10,3 +10,4 @@ langchain-groq
 python-dotenv
 typesense
 langchain-huggingface
+langchain-classic
