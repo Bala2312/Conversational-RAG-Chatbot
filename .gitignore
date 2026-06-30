@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter notebooks (optional)
+notebooks/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
