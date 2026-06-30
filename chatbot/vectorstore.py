@@ -1,7 +1,7 @@
 """
-Vector Store module.
+Vector Store Module
 
-This module loads documents, splits them into chunks,
+Loads documents, splits them into chunks,
 creates embeddings, and indexes them into Typesense.
 """
 
@@ -14,29 +14,32 @@ from chatbot.config import (
     DOCUMENT_PATH,
     CHUNK_SIZE,
     CHUNK_OVERLAP,
-    TYPESENSE_CONFIG
+    TYPESENSE_CONFIG,
 )
 
-# Load the document 
-loader = TextLoader(DOCUMENT_PATH)
-documents = loader.load()
 
-# Chunking 
-text_splitter = CharacterTextSplitter(
-    chunk_size=CHUNK_SIZE,
-    chunk_overlap=CHUNK_OVERLAP
-)
-docs = text_splitter.split_documents(documents)
+def create_vectorstore():
 
-# Create Typesense Vector Store
-vectorstore = Typesense.from_documents(
-    docs,
-    embeddings,
-    typesense_client_params={
-        "host": TYPESENSE_CONFIG["host"],
-        "port": TYPESENSE_CONFIG["port"],
-        "protocol": TYPESENSE_CONFIG["protocol"],
-        "typesense_api_key": TYPESENSE_CONFIG["api_key"],
-        "typesense_collection_name": TYPESENSE_CONFIG["collection_name"],
-    },
-)
+    loader = TextLoader(DOCUMENT_PATH)
+    documents = loader.load()
+
+    splitter = CharacterTextSplitter(
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
+    )
+
+    docs = splitter.split_documents(documents)
+
+    vectorstore = Typesense.from_documents(
+        docs,
+        embeddings,
+        typesense_client_params={
+            "host": TYPESENSE_CONFIG["host"],
+            "port": TYPESENSE_CONFIG["port"],
+            "protocol": TYPESENSE_CONFIG["protocol"],
+            "typesense_api_key": TYPESENSE_CONFIG["api_key"],
+            "typesense_collection_name": TYPESENSE_CONFIG["collection_name"],
+        },
+    )
+
+    return vectorstore
