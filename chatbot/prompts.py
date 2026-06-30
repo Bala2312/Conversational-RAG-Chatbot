@@ -25,6 +25,10 @@ qa_system_prompt = (
     "Use ONLY the context provided below to answer the user's question.\n"
     "If the answer is not found in the context, reply: 'I don't have enough information to answer that question.'\n"
     "Do not make up facts.\n\n"
+    "CRITICAL CODE & SYNTAX RULES:\n"
+    "- When generating code snippets or syntax explanations, you must copy the exact structures provided in the context VERBATIM.\n"
+    "- Do NOT guess, alter, or simplify syntax shorthand (e.g., do not pass raw strings into pipes unless explicitly shown in the text).\n"
+    "- Ground all algorithmic explanations strictly in the text. Do not assume models need fine-tuning if the text implies a standard RAG workflow.\n\n"
     "Context:\n{context}"
 )
 
