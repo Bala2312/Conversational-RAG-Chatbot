@@ -3,7 +3,7 @@ from langchain_classic.chains import create_history_aware_retriever, create_retr
 from langchain_classic.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.runnables.history import RunnableWithMessageHistory
 
-from chatbot.config import GROQ_API_KEY, MODEL_NAME
+from chatbot.config import GROQ_API_KEY, MODEL_NAME,TEMPERATURE
 from chatbot.prompts import contextualize_q_prompt, qa_prompt
 from chatbot.memory import get_session_history
 
@@ -14,7 +14,7 @@ class RAGPipeline:
         self.llm = ChatGroq(
             api_key=GROQ_API_KEY,
             model=MODEL_NAME,
-            temperature=0,
+            temperature=TEMPERATURE,
         )
 
         # Create a retriever that understands chat history

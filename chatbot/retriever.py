@@ -1,9 +1,3 @@
-"""
-Retriever Module
-
-Creates a retriever from the Typesense vector store.
-"""
-
 from chatbot.config import TOP_K
 from langchain_classic.retrievers import EnsembleRetriever
 from langchain_community.retrievers import BM25Retriever
