@@ -1,9 +1,3 @@
-"""
-LLM initialization module.
-
-This module creates and exports the Groq-hosted Llama model
-used throughout the chatbot application.
-"""
 
 from langchain_groq import ChatGroq
 from chatbot.config import (

@@ -11,3 +11,6 @@ python-dotenv
 typesense
 langchain-huggingface
 langchain-classic
+langchain-openai
+typesense
+rank_bm25

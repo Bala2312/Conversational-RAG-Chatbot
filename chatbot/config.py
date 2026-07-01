@@ -1,15 +1,8 @@
-"""
-Configuration module for the Conversational RAG Chatbot.
-
-This module loads environment variables from the .env file and
-stores all project-wide configuration values in one place.
-"""
 
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
-
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 

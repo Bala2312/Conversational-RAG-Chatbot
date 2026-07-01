@@ -48,4 +48,10 @@ class RAGPipeline:
             config={"configurable": {"session_id": session_id}}
         )
         
-        return response["answer"]
+        raw_context = response.get("context", [])
+        sources = raw_context if isinstance(raw_context, list) else []
+        
+        return {
+            "answer": response.get("answer", ""),
+            "sources": sources
+        }

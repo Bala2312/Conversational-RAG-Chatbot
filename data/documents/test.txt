@@ -214,4 +214,269 @@ When implementing color choices in modern software design (UI/UX), branding, and
 2.  **Color Independence:** Software states must never rely exclusively on color shifts to convey critical information. All interactive UI elements must pair color with metadata labels, structural icons, or text indicators to remain fully navigable for users with Daltonism (color blindness).
 
 ---
-**END OF DATASET FILE**
+
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-101]: IMPRESSIONISM
+Impressionism was a 19th-century art movement characterised by visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities (often accentuating the effects of the passage of time), ordinary subject matter, unusual visual angles, and inclusion of movement as a crucial element of human perception and experience. Impressionism originated with a group of Paris-based artists whose independent exhibitions brought them to prominence during the 1870s and 1880s.
+The Impressionists faced harsh opposition from the conventional art community in France. The name of the style derives from the title of a Claude Monet work, Impression, Sunrise, which provoked the critic Louis Leroy to coin the term in a satirical 1874 review of the First Impressionist Exhibition published in the Parisian newspaper Le Charivari. The development of Impressionism in the visual arts was soon followed by analogous styles in other media that became known as Impressionist music and Impressionist literature.
+
+
+== Overview ==
+
+Radicals in their time, the early Impressionists violated the rules of academic painting. They constructed their pictures from freely brushed colours that took...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-102]: SURREALISM
+Surrealism is an art and cultural movement that developed in Europe in the aftermath of World War I in which artists aimed to allow the unconscious mind to express itself, often resulting in the depiction of illogical or dreamlike scenes and ideas. Its intention was, according to leader André Breton, to "resolve the previously contradictory conditions of dream and reality into an absolute reality, a super-reality", or surreality. It produced works of painting, writing, photography, theatre, filmmaking, music, comedy and other media as well.
+Works of Surrealism feature the element of surprise, unexpected juxtapositions and non sequitur. However, many Surrealist artists and writers regard their work as an expression of the philosophical movement first and foremost (for instance, of the "pure psychic automatism" Breton speaks of in the first Surrealist Manifesto), with the works themselves being secondary, i.e., artifacts of surrealist experimentation. Leader Breton was explicit in his assertion that Surrealism was, above all, a revolutionary movement. At the time, the movement was associated with political causes such as communism and anarchism. It was influenced by the Dada movement...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-103]: CUBISM
+Cubism is an early-20th-century avant-garde art movement which began in Paris. It revolutionized painting and the visual arts, and sparked artistic innovations in music, ballet, literature, and architecture.
+Cubist subjects are analyzed, broken up, and reassembled in an abstract form. Instead of depicting objects from a single perspective, the artist depicts the subject from multiple perspectives to represent the subject in a greater context. Cubism has been considered the most influential art movement of the 20th century. The term cubism is broadly associated with a variety of artworks produced in Paris (Montmartre and Montparnasse) or near Paris (Puteaux) during the 1910s and throughout the 1920s.
+The movement was pioneered in partnership by Pablo Picasso and Georges Braque, and joined by Jean Metzinger, Albert Gleizes, Robert Delaunay, Henri Le Fauconnier, Juan Gris, and Fernand Léger. One primary influence that led to Cubism was the representation of three-dimensional form in the late works of Paul Cézanne. A retrospective of Cézanne's paintings was held at the Salon d'Automne of 1904, current works were displayed at the 1905 and 1906 Salon d'Automne, followed by two commemorative...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-104]: BAROQUE
+The Baroque (UK:  bə-ROK, US:  bə-ROHK, French: [baʁɔk]) is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 1600s until the 1750s. It followed Renaissance art and Mannerism and preceded the Rococo (in the past often referred to as "late Baroque") and Neoclassical styles. It was encouraged by the Catholic Church as a means to counter the simplicity and austerity of Protestant architecture, art, and music, though Lutheran Baroque art developed in parts of Europe as well.
+The Baroque style used contrast, movement, exuberant detail, deep color, grandeur, and surprise to achieve a sense of awe. The style began at the start of the 17th century in Rome, then spread rapidly to the rest of Italy, France, Spain, and Portugal, then to Austria, southern Germany, Poland and Russia. By the 1730s, it had evolved into an even more flamboyant style, called rocaille or Rococo, which appeared in France and Central Europe until the mid to late 18th century. In the territories of the Spanish and Portuguese Empires including the Iberian Peninsula it continued, together with new styles, until the first decade of the 19th century.
+In...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-105]: BAUHAUS
+The Staatliches Bauhaus (German: [ˈʃtaːtlɪçəs ˈbaʊˌhaʊs] ), commonly known as the Bauhaus (German for 'building house'), was a German art school operational from 1919 to 1933 that combined crafts and the fine arts. The school became famous for its approach to design, which attempted to unify individual artistic vision with the principles of mass production and emphasis on function.
+The Bauhaus was founded by architect Walter Gropius in Weimar. It was grounded in the idea of creating a Gesamtkunstwerk ("comprehensive artwork") in which all the arts would eventually be brought together. The Bauhaus style later became one of the most influential currents in modern design, modernist architecture, and architectural education. The Bauhaus movement had a profound influence on subsequent developments in art, architecture, graphic design, interior design, industrial design, and typography. Staff at the Bauhaus included prominent artists such as Paul Klee, Wassily Kandinsky, Gunta Stölzl, and László Moholy-Nagy at various points.
+
+The school existed in three German cities—Weimar, from 1919 to 1925; Dessau, from 1925 to 1932; and Berlin, from 1932 to 1933—under three different architect-directors...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-106]: RENAISSANCE ART
+Renaissance art (1350 – 1620) is the painting, sculpture, and decorative arts of the period of European history known as the Renaissance, which emerged as a distinct style in Italy in about AD 1400, in parallel with developments which occurred in philosophy, literature, music, science, and technology. Renaissance art took as its foundation the art of Classical antiquity, perceived as the noblest of ancient traditions, but transformed that tradition by absorbing recent developments in the art of Northern Europe and by applying contemporary scientific knowledge. Along with Renaissance humanist philosophy, it spread throughout Europe, affecting both artists and their patrons with the development of new techniques and new artistic sensibilities. For art historians, Renaissance art marks the transition of Europe from the medieval period to the Early Modern age.
+
+The body of art, including painting, sculpture, architecture, music and literature identified as "Renaissance art" was primarily produced during the 14th, 15th, and 16th centuries in Europe under the combined influences of an increased awareness of nature, a revival of classical learning, and a more individualistic view of man. Scholars...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-107]: POP ART
+Pop art is an art movement that emerged in the United Kingdom and the United States during the mid-to late 1950s. The movement presented a challenge to traditions of fine art by including imagery from popular and mass culture—including advertising, comic strips, product packaging, celebrities, and everyday consumer goods—into painting, sculpture, and printmaking. By elevating the banal, the kitsch, and the mass-produced to the status of high art, pop art blurred the boundaries between high and low culture. It is also associated with the artists' use of mechanical means of reproduction or rendering techniques. In pop art, material is sometimes visually removed from its known context, isolated, or combined with unrelated material.
+The movement developed initially in Britain through artists such as Eduardo Paolozzi and Richard Hamilton, who explored American consumer imagery and postwar media culture in collage and painting. In the United States, artists including Larry Rivers, Ray Johnson, Robert Rauschenberg, and Jasper Johns laid important groundwork by incorporating everyday objects and commercial symbols into their work. By the early 1960s, figures such as Andy Warhol, Roy Lichtenstein...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-108]: ABSTRACT EXPRESSIONISM
+Abstract expressionism in the United States emerged as a distinct art movement in the aftermath of World War II and gained mainstream acceptance in the 1950s, a shift from the American social realism of the 1930s influenced by the Great Depression and Mexican muralists. The term was first applied to American art in 1946 by the art critic Robert Coates. Key figures in the New York School, which was the center of this movement, included such artists as Arshile Gorky, Jackson Pollock, Franz Kline, Mark Rothko, Norman Lewis, Willem de Kooning, Adolph Gottlieb, Clyfford Still, Robert Motherwell, Theodoros Stamos, Jack Tworkov, and Lee Krasner among others.
+The movement was not limited to painting but included influential collagists and sculptors, such as David Smith, Louise Nevelson, and others. Abstract expressionism was notably influenced by the spontaneous and subconscious creation methods of Surrealist artists like André Masson and Max Ernst. Artists associated with the movement combined the emotional intensity of German Expressionism with the radical visual vocabularies of European avant-garde schools like Futurism, the Bauhaus, and Synthetic Cubism.
+Abstract expressionism was seen...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-109]: COLOR THEORY
+Color theory, or more specifically traditional color theory, is a historical body of knowledge describing the behavior of colors — namely in color mixing, color contrast effects, color harmony, color schemes and color symbolism.  Color theory and color science both study color and its existence. Traditional color theory tends to be more subjective and have artistic applications, while color science tends to be more objective and have functional applications, such as in chemistry, astronomy or color reproduction. However, there is much intertwining between the two throughout history, and they tend to aid each other in their own evolutions.
+Though, color theory can be considered a science unto itself that uses the relationship between human color perception and the interactions of colors together to build their palettes, schemes, and color mixes. Importantly, color theory relies upon objective standards in-order to be consistent in color mixing and presentation – i.e. to achieve the ideal color and effect, your ratios of colors must be consistent and often exact. As for functional applications, color theory, in tandem with color science, is what allows humans to achieve ideal camouflage...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-110]: COLOR PSYCHOLOGY
+Color psychology is the study of colors and hues as a determinant of human behavior. Color influences perceptions that are not obvious, such as the taste of food. Colors have qualities that may cause certain emotions in people. How color influences individuals may differ depending on age, gender, and culture. Although color associations may vary contextually from culture to culture, one author asserts that color preference may be relatively uniform across gender and race.
+Color psychology is widely used in marketing and branding. Marketers see color as an important factor, since color may influence consumer emotions and perceptions about goods and services. Logos for companies are important, since the logos may attract more customers.
+The field of color psychology applies to many other domains such as medical therapy, sports, hospital settings, and even in game design. Carl Jung has been credited as one of the pioneers in this field for his research on the properties and meanings of color in our lives. According to Jung, "colors are the mother tongue of the subconscious".
+Before there was color psychology as a field, color was being used for centuries as a method of treatment as early...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-111]: VISIBLE SPECTRUM
+The visible spectrum is the band of the electromagnetic spectrum that is visible to the human eye. Electromagnetic radiation in this range of wavelengths is called visible light (or simply light).
+The optical spectrum is sometimes considered to be the same as the visible spectrum, but some authors define the term more broadly, to include the ultraviolet and infrared parts of the electromagnetic spectrum as well, known collectively as optical radiation.
+A typical human eye will respond to wavelengths from about 380 to about 750 nanometers. In terms of frequency, this corresponds to a band in the vicinity of 400–790 terahertz. These boundaries are not sharply defined and may vary per individual. Under optimal conditions, these limits of human perception can extend to 310 nm (ultraviolet) and 1100 nm (near infrared).
+The spectrum does not contain all the colors that the human visual system can distinguish. Unsaturated colors such as pink, or purple variations like magenta, for example, are absent because they can only be made from a mix of multiple wavelengths. Colors containing only one wavelength are also called pure colors or spectral colors.
+Visible wavelengths pass largely unattenuated...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-112]: PIGMENT
+A pigment is a chemical compound that gives a substance or organism color, or is used by humans to add or alter color or change visual appearance. Pigments are nearly or completely insoluble and chemically unreactive in water or another medium; in contrast, dyes are colored substances which are soluble or go into solution at some stage in their use. Dyes are often organic compounds whereas pigments are often inorganic. Pigments of prehistoric and historic value include ochre, charcoal, and lapis lazuli. Biological pigments are compounds produced by living organisms that provide coloration.
+
+
+== Economic impact ==
+In 2006, around 7.4 million tons of inorganic, organic, and special pigments were marketed worldwide. According to an April 2018 report by Bloomberg Businessweek, the estimated value of the pigment industry globally is $30 billion. The value of titanium dioxide – used to enhance the white brightness of many products – was placed at $13.2 billion per year, while the color Ferrari red is valued at $300 million each year.  For organic pigments, the major application is printing inks followed by paints and coloring plastics and textiles.
+
+
+== Physical principles ==
+
+Like all materials...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-113]: RGB COLOR MODEL
+The RGB color model is an additive color model in which the red, green, and blue primary colors of light are added together in various ways to reproduce a broad array of colors. The name of the model comes from the initials of the three additive primary colors— red, green, and blue.
+The main purpose of the RGB color model is for the sensing, representation, and display of images in electronic systems, such as televisions and computers, though it has also been used in conventional photography and colored lighting. Before the electronic age, the RGB color model already had a solid theory behind it, based in human perception of colors.
+RGB is a device-dependent color model: different devices detect or reproduce a given RGB value differently, since the color elements (such as phosphors or dyes) and their response to the individual red, green, and blue levels vary from manufacturer to manufacturer, or even in the same device over time. Thus an RGB value does not define the same color across devices without some kind of color management.
+Typical RGB input devices are color TV and video cameras, image scanners, and digital cameras. Typical RGB output devices are TV sets of various technologies...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-114]: CMYK COLOR MODEL
+The CMYK color model is a subtractive color model used in color printing as well as describing the printing process. The abbreviation CMYK refers to the four color components used in printing: cyan, magenta, yellow, and black (the key plate).
+In subtractive models, inks reduce the amount of light reflected from a white or light background. White is the color of the substrate, and black results from the combination of inks. This contrasts with additive color models (e.g., RGB color model), where colors are produced by emitting light, white results from combining all primary colors, and black represents the absence of light. The addition of black ink reduces ink consumption and produces more consistent dark tones compared to using cyan, magenta, and yellow alone.
+The CMYK printing process was first implemented in the 1890s for color newspaper illustrations and comic strips.
+
+
+== Halftoning ==
+
+Halftoning (or screening) allows a printer to produce continuous tones by varying the size and spacing of small ink dots. This creates the perception of intermediate colors between the primary inks. For example, 20% coverage of magenta ink produces a pink tone rather than full magenta.
+Without halftoning...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-115]: CONTRAST (VISION)
+Contrast is the difference in luminance or color that makes an object (or its representation in an image or display) distinguishable from a background. Human vision is more sensitive to relative differences than to absolute luminance, so perceived appearance can remain fairly stable despite large changes in illumination. 
+The maximum contrast of an image is termed the contrast ratio or dynamic range. In images where the contrast ratio approaches the maximum possible for the medium, there is a conservation of contrast. In such cases, increasing contrast in certain parts of the image will necessarily result in a decrease in contrast elsewhere. Brightening an image increases contrast in darker areas but decreases it in brighter areas; conversely, darkening the image will have the opposite effect. Bleach bypass reduces contrast in the darkest and brightest parts of an image while enhancing luminance contrast in areas of intermediate brightness.
+
+
+== Biological contrast sensitivity ==
+Campbell and Robson (1968) showed that the typical human contrast sensitivity function displays a band-pass filter shape that peaks around 4 cycles per degree (cpd or cyc/deg), with sensitivity dropping off either...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-116]: LION
+The lion (Panthera leo) is a large cat of the genus Panthera, currently ranging only in Sub-Saharan Africa and India. It has a muscular, broad-chested body; a short, rounded head; round ears; and a dark, hairy tuft at the tip of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane that extends from the head to the shoulders and chest.
+The lion inhabits grasslands, savannahs, and shrublands. It is an apex and keystone predator, preying mostly on medium-sized and large hooved mammals. It is usually more diurnal than other wild cats, but when persecuted, it adapts to being active at night and at twilight. It is a social species, forming groups called prides. A lion pride consists of related females and cubs, and a few or one adult male who is unrelated to the females. Groups of female lions usually hunt together. Adult males often compete to keep or gain their membership in the pride.
+During the Neolithic period, the lion ranged throughout Africa and Eurasia, from Southeast Europe to India. Still, it has been reduced to fragmented populations in sub-Saharan Africa and one population in western India. It has been listed as Vulnerable on...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-117]: GREAT WHITE SHARK
+The great white shark (Carcharodon carcharias), also known as the white shark, white pointer, or great white, is a large shark. It is closely related to the mako sharks, the porbeagle, and the salmon shark. It is a robustly built species with a grayish upperside and a white underside. The white shark is one of the largest living shark and fish species, though it is still smaller than the whale shark and basking shark. It has about 300 triangular, serrated teeth that are continuously replaced. Its massive, fatty liver can reach over a quarter of its body weight, providing buoyancy and storing energy. The species is partially warm-blooded, an adaptation that allows it to remain active in colder waters.
+White sharks inhabit tropical and temperate ocean waters around the world and can be found both near coasts and in the open ocean. Populations are most concentrated at the Pacific and Atlantic of North America and in the waters of southern Africa and Oceania. They are a highly migratory species, traveling between the coast and the open ocean and even between continents. The white shark preys on marine mammals such as seals and dolphins, as well as squid and fish, including other sharks...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-118]: CANIDAE
+Canidae (; from Latin, canis, "dog") is a biological family of caniform carnivorans, constituting a clade. A member of this family is a canid (, rarely ), colloquially referred to as dogs. The family includes three subfamilies: the Caninae, and the extinct Borophaginae and Hesperocyoninae. The Caninae are the canines, and include domestic dogs, wolves, coyotes, raccoon dogs, foxes, jackals, and other species.
+Canids are found on all continents except Antarctica, having arrived independently or accompanied by human beings over extended periods of time. Canids vary in size from the 2-metre-long (6.6 ft) gray wolf to the 24-centimetre-long (9.4 in) fennec fox. The body forms of canids are similar, typically having long muzzles, upright ears, teeth adapted for cracking bones and slicing flesh, long legs, and bushy tails. They are mostly social animals, living together in family units or small groups and behaving co-operatively. Typically, only the dominant pair in a group breeds and a litter of young are reared annually in an underground den. Canids communicate by scent signals and vocalizations. One canid, the domestic dog, originated from a symbiotic relationship with Upper Paleolithic...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-119]: CEPHALOPOD
+A cephalopod  is any member of the molluscan class Cephalopoda  (Greek plural κεφαλόποδες, kephalópodes; "head-feet") such as a squid, octopus, cuttlefish, or nautilus. These exclusively marine animals are characterized by bilateral body symmetry, a prominent head, and a set of arms or tentacles (muscular hydrostats) modified from the primitive molluscan foot. Fishers sometimes call cephalopods "inkfish", referring to their common ability to squirt ink. The study of cephalopods is a branch of malacology known as teuthology.
+Cephalopods became dominant during the Ordovician period, represented by primitive nautiloids. The class contains two, only distantly related, extant subclasses: Coleoidea, which includes octopuses, squid, and cuttlefish; and Nautiloidea, represented by Nautilus and Allonautilus. In the Coleoidea, the molluscan shell has been internalized or is absent, whereas in the Nautiloidea, the external shell remains. About 800 living species of cephalopods have been identified. Two important extinct taxa are the Ammonoidea (ammonites) and Belemnoidea (belemnites). Extant cephalopods range in size from the 10 mm (0.3 in) Idiosepius thailandicus to the 700 kilograms (1,500 lb...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-120]: BIRD MIGRATION
+Bird migration is a seasonal movement of some birds between breeding and wintering grounds that occurs twice a year. It is typically between northern and southern regions. Migration carries inherent risks, including predation and other hazards en route.
+The Arctic tern holds the long-distance migration record for birds, travelling between Arctic breeding grounds and the Antarctic each year. Some species of tubenoses, such as albatrosses, circle the Earth, flying over the southern oceans, while others such as Manx shearwaters migrate 14,000 km (8,700 mi) between their northern breeding grounds and the Southern Ocean. Shorter migrations are common, while longer ones are not. The shorter migrations include altitudinal migrations on mountains, including the Andes and Himalayas.
+The timing of migration seems to be controlled primarily by changes in day length. Migrating birds navigate using celestial cues from the Sun and stars, the Earth's magnetic field, and mental maps.
+
+
+== Historical views ==
+
+In the Pacific, traditional land-finding techniques used by Micronesians and Polynesians suggest that bird migration was observed and interpreted for more than 3,000 years. In Samoan tradition,...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-121]: METAMORPHOSIS
+Metamorphosis is a biological process in which an animal undergoes a conspicuous and relatively abrupt change in its body structure as part of its development. Some insects, fish, amphibians, mollusks, crustaceans, cnidarians, echinoderms, and tunicates undergo metamorphosis, often accompanied by a change of nutrition or behavior. Some animal species undergo complete metamorphosis ("holometaboly") between radically different lifecycle stages; others have incomplete metamorphosis ("hemimetaboly") between somewhat similar stages, or no metamorphosis ("ametaboly"). Organisms with larval stages undergo metamorphosis to the adult stage.
+
+
+== Etymology ==
+The word metamorphosis derives from Ancient Greek μεταμόρφωσις, "transformation, transforming", from μετα- (meta-), "after" and μορφή (morphe), "form".
+
+
+== Hormonal control ==
+In insects, growth and metamorphosis are controlled by hormones synthesized by endocrine glands near the front of the body (anterior). Neurosecretory cells in an insect's brain secrete a hormone, the prothoracicotropic hormone (PTTH) that activates prothoracic glands, which secrete a second hormone, usually ecdysone (an ecdysteroid), that induces ecdysis (shedding of...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-122]: ECHOLOCATION
+Echolocation is the use of sound as a form of navigation.
+
+
+== Navigation using sound ==
+Acoustic location, the general use of sound to locate objects.
+Animal echolocation, non-human animals emitting sound waves and listening to the echo in order to locate objects or navigate.
+Human echolocation, the use of sound by people to navigate.
+Sound localization, biological process of locating a sound.
+Sonar (sound navigation and ranging), the technology that uses sound on water or underwater, to navigate or to locate other watercraft, usually by submarines.
+Echo sounding, listening to the echo of sound pulses to measure the distance to the bottom of the sea, a special case of Sonar.
+Medical ultrasonography, the use of ultrasound echoes to look inside the body.
+
+
+== Other ==
+Echolocation (album), a 2001 album by Fruit Bats
+Echolocation, a 2017 album by Gone Is Gone
+
+
+== See also ==
+Radar, locating objects by detecting the echo of emitted radio waves
+Lidar, locating objects by detecting the echo of emitted laser beams
+Time to Echolocate, a 2005 album by The Ebb and Flow
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-123]: DEEP-SEA COMMUNITY
+A deep-sea community is any community of organisms associated with a shared habitat in the deep sea. Deep sea communities remain largely unexplored, due to the technological and logistical challenges and expense involved in visiting this remote biome. Because of the unique challenges (particularly the high barometric pressure, extremes of temperature, and absence of light), it was long believed that little life existed in this hostile environment. Since the 19th century however, research has demonstrated that significant biodiversity exists in the deep sea.
+The three main sources of energy and nutrients for deep sea communities are marine snow, whale falls, and chemosynthesis at hydrothermal vents and cold seeps.
+
+
+== History ==
+Prior to the 19th century scientists assumed life was sparse in the deep ocean. In the 1870s Sir Charles Wyville Thomson and colleagues aboard the Challenger expedition discovered many deep-sea creatures of widely varying types.
+
+The first discovery of any deep-sea chemosynthetic community including higher animals was unexpectedly made at hydrothermal vents in the eastern Pacific Ocean during geological explorations (Corliss et al., 1979). Two scientists, J. Corliss...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-124]: INTERNAL COMBUSTION ENGINE
+An internal combustion engine (ICE or IC engine) is a heat engine in which the combustion of a fuel occurs with an oxidizer (usually air) in a combustion chamber that is an integral part of the working fluid flow circuit. In an internal combustion engine, the expansion of the high-temperature and high-pressure gases produced by combustion applies direct force to components of the engine. The force is typically applied to pistons (piston engine), turbine blades (gas turbine), a rotor (Wankel engine), or a nozzle (jet engine). This force moves the component over a distance. This process transforms chemical energy into kinetic energy which is used to propel, move or power whatever the engine is attached to.
+The first commercially successful internal combustion engines were invented in the mid-19th century. The first modern internal combustion engine, the Otto engine, was designed in 1876 by the German engineer Nicolaus Otto. The term internal combustion engine usually refers to an engine in which combustion is intermittent, such as the more familiar two-stroke and four-stroke piston engines, along with variants, such as the six-stroke piston engine and the Wankel rotary engine. A second...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-125]: ELECTRIC VEHICLE
+An electric vehicle (EV) is a vehicle propelled mostly by electric power. EVs encompass  road (cars, buses, trucks and personal transporters), rail (trains, trams and monorails), boats and submersibles, aircraft (fixed-wing and multirotors) and spacecraft.
+EVs originated in the late 19th century. Electricity was among the preferred methods for powering early motor vehicles because it was quieter, provided comfort, and ease of operation. However, its limited range hindered mass adoption throughout the 20th century. Internal combustion engines were the dominant propulsion mechanisms for cars and trucks for about 100 years, although electricity-powered locomotion became commonplace in other vehicle types, such as overhead line-powered mass transit vehicles, as well as special purpose vehicles such as mobility scooters.
+Since the late 20th century, technological advances in lithium batteries—which offer superior energy density and current output versus lead-acid batteries—has revived public interest as zero-emission vehicle options. Manufacturers mostly switched to hybrids that use internal combustion engines like conventional vehicles, but add electric motors as a supplement, powered by...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-126]: SUPERCAR
+A supercar, also known as an exotic car, is  a street-legal sports car with race track-like power, speed, and handling, plus a certain subjective cachet linked to pedigree and/or exclusivity. The term 'supercar' is frequently used for the extreme fringe of powerful, low-bodied mid-engine luxury sportscars. A low-profile car may have limited ground clearance, but a handling-favorable center of gravity and a smaller frontal area than a front engined car. These characteristics can reduce supercars' aerodynamic drag, enabling higher top speeds. Since the 2000s, the term hypercar has come into use for the highest-performance supercars.
+Supercars often serve as the flagship model within a vehicle manufacturer's sports car range and typically feature various performance-related technology derived from motorsports. Some examples include the Ferrari 458 Italia, Lamborghini Aventador, and McLaren 720S. 
+Automotive journalism typically reserves the predicate 'hypercar' for low (two- to low 4-figure) production-number cars, built over and above the marque's typical product line-up and carrying 21st century sales prices often exceeding a million euros, dollars, or pounds. Examples include the Porsche...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-127]: AERODYNAMICS
+Aerodynamics (from Ancient Greek  ἀήρ (aḗr) 'air' and  δυναμική (dunamikḗ) 'dynamics') is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. It involves topics covered in the field of fluid dynamics and its subfield of gas dynamics, and is an important domain of study in aeronautics. The term aerodynamics is often used synonymously with gas dynamics, the difference being that "gas dynamics" applies to the study of the motion of all gases, and is not limited to air. The formal study of aerodynamics began in the modern sense in the eighteenth century, although observations of fundamental concepts such as aerodynamic drag were recorded much earlier. Most of the early efforts in aerodynamics were directed toward achieving heavier-than-air flight, which was first demonstrated by Otto Lilienthal in 1891. Since then, the use of aerodynamics through mathematical analysis, empirical approximations, wind tunnel experimentation, and computer simulations has formed a rational basis for the development of heavier-than-air flight and a number of other technologies. Recent work in aerodynamics has focused on issues related to compressible flow,...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-128]: FORMULA ONE
+Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built circuits or closed roads, as street circuits.
+A points scoring system is used at Grands Prix to determine two annual World Championships: one for the drivers, and one for the constructors—now synonymous with teams. Each driver must hold a valid Super Licence, the highest class of racing licence the FIA issues, and the races must be held on Grade One tracks, the highest grade rating the FIA issues for circuits.
+The commercial rights to F1 are leased to Liberty Media Corporation, acquired in 2017 for an estimated $8 billion, previously owned by British...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-129]: TURBOCHARGER
+In an internal combustion engine, a turbocharger (also known as a turbo or a turbosupercharger) is a forced induction device that compresses the intake air, forcing more air into the engine in order to produce more power for a given displacement.
+Turbochargers are distinguished from superchargers in that a turbocharger is powered by the kinetic energy of the exhaust gases, whereas a supercharger is mechanically powered, usually by a belt from the engine's crankshaft. However, up until the mid-20th century, a turbocharger was called a "turbosupercharger" and was considered a type of supercharger.
+
+
+== History ==
+Prior to the invention of the turbocharger, forced induction was only possible using mechanically-powered superchargers. Use of superchargers began in 1878, when several supercharged two-stroke gas engines were built using a design by Scottish engineer Dugald Clerk. Then in 1885, Gottlieb Daimler patented the technique of using a gear-driven pump to force air into an internal combustion engine.
+The 1905 patent by Alfred Büchi, a Swiss engineer working at Sulzer is often considered the birth of the turbocharger. This patent was for a compound radial engine with an exhaust-driven...
+---
+
+--- 
+## KNOWLEDGE BASE INDEX [REF-130]: SELF-DRIVING CAR
+A self-driving car, also known as an autonomous car, driverless car, robotic car, or robo-car, is a car that is capable of operating with reduced or no human input. They are sometimes called robotaxis, though this term refers specifically to self-driving cars operated for a ridesharing company. As of 2026, the term "self-driving" lacks an agreed standard definition and is also subject to commercial advertising and branding considerations. 
+In 2020, Waymo was the first to offer rides in driverless taxis in the operational design domain (ODD) of limited geographic areas, but as of late 2025, no system has achieved full autonomy in all domains - sometimes referred to as "Level 5" on a scale of 0 to 5 levels of automation defined by the global standards organization SAE International, or simply "no driver" as given by the classification system proposed by Mobileye in the US.
+Following a history of experimentation and development of advanced driver assistance systems (ADAS) after World War II, two main technologies are now primarily used: LiDAR (Light Detection and Ranging), and visual sensors (cameras) which capture images and video like human eyes. These are combined with systems such...
+---
